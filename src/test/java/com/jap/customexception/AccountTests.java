@@ -35,8 +35,6 @@ public class AccountTests {
         int newBalance = account.withdraw(0);
         assertEquals(5000, newBalance);
     }
-
-
 }
 
 
